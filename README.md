@@ -8,8 +8,6 @@
 🔭 Front-End developer specializing in Vue.js and Nuxt.js.<br>👯 Open to collaboration on exciting Front-End projects.<br>🤝 Seeking help to stay updated with the latest Front-End trends.<br>🌱 I'm currently delving into advanced Vue.js techniques and improving user experiences through Nuxt.js.<br>💬 Ask me about Front-End development or web development in general!
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peymanmotamedifar" alt="peymanmotamedifar" /></a> </p>
-
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/peyman-web) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peyman_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peymanmotamedifar) 
 - 🌐 Website [https://www.peyman-web.ir](https://www.peyman-web.ir) <br>
