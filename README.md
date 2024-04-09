@@ -1,10 +1,8 @@
-<h1 align="center">Hi 😊, I'm peyman motamedifar</h1>
-<h3 align="center">A passionate front-end developer from Tehran-Iran</h3>
+<h1 align="center">Front-End Developer</h1>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peymanmotamedifar&label=Profile%20views&color=00a8e8&style=flat" alt="peymanmotamedifar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=peymanmotamedifar&label=Profile%20views&color=00a8e8&style=flat" alt="peymanmotamedifar" /> </p> -->
  
-# 💫 About Me:
+# 🧒🏽 About Me:
 🔭 Front-End developer specializing in Vue.js and Nuxt.js.<br>👯 Open to collaboration on exciting Front-End projects.<br>🤝 Seeking help to stay updated with the latest Front-End trends.<br>🌱 I'm currently delving into advanced Vue.js techniques and improving user experiences through Nuxt.js.<br>💬 Ask me about Front-End development or web development in general!
 
 
